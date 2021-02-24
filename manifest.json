@@ -6,16 +6,16 @@
     "contextMenus"
   ],
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["src/background.js"]
   },
   "content_scripts": [{
     "matches": ["<all_urls>"],
-    "js": ["generate-oib-script.js"],
+    "js": ["src/generate-oib-script.js"],
     "all_frames": true,
     "match_about_blank": true
   }],
   "icons": {
-    "128": "icon-128.png"
+    "128": "assets/icon-128.png"
   },
   "manifest_version": 2
 }
