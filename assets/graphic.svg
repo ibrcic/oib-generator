@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="418" height="88" viewBox="0 0 418 88">
+  <defs>
+    <clipPath id="clip-graphic">
+      <rect width="418" height="88"/>
+    </clipPath>
+  </defs>
+  <g id="graphic" clip-path="url(#clip-graphic)">
+    <text id="OIB" transform="translate(-2 69)" fill="#707070" font-size="71" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">OIB</tspan></text>
+    <text id="Generator" transform="translate(110 69)" fill="#be4545" font-size="69" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Generator</tspan></text>
+  </g>
+</svg>

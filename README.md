@@ -1,4 +1,5 @@
-# OIB Generator
+
+![](/assets/graphic.svg)
 
 OIB Generator is a Chrome extension designed to generate valid OIBs. OIB is personal identification number used in Croatia. If you are outside of Croatia it is unlikelly that this will be of much use to you.
 
